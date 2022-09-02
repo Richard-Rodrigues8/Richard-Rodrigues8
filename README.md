@@ -15,9 +15,9 @@
 - ⚽ Playing Sports
 
 ## ⚙️ &nbsp;GitHub Analytics
-<div style="display: flex; justify-content: space-around;">
+<div style="width: 100%; display: flex; justify-content: space-around;">
   <a href="https://github.com/Richard-Rodrigues8">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Richard-Rodrigues8&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Richard-Rodrigues8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Rodrigues8&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
