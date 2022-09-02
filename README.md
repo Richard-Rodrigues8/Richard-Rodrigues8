@@ -15,16 +15,16 @@
 - ⚽ Playing Sports
 
 ## ⚙️ &nbsp;GitHub Analytics
-<div align="center">
+<div style="display: flex; justify-content: space-around;">
   <a href="https://github.com/Richard-Rodrigues8">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Richard-Rodrigues8&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Rodrigues8&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Rodrigues8&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
-<div style="display: inline_block"><br>
+<div style="display: flex; justify-content: space-around;"><br>
   <img align="center" alt="Richard-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Richard-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Richard-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
