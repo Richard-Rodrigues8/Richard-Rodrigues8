@@ -3,7 +3,7 @@
 I'm a 16-year-old programming worshipper from Brazil, and I seek to devote myself more and more in my profession.
 - 💻 Junior Web Developer
 
-<br><br>
+<br>
 
 <div style="display: inline-block;">
   <a href="https://github.com/Richard-Rodrigues8">
@@ -11,7 +11,7 @@ I'm a 16-year-old programming worshipper from Brazil, and I seek to devote mysel
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Rodrigues8&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<br><br>
+<br>
 
 ## 🧑🏻 &nbsp;Social Links
 <div>
@@ -22,23 +22,21 @@ I'm a 16-year-old programming worshipper from Brazil, and I seek to devote mysel
 
 </div>
 
-<br><br>
+<br>
 
 ### - Learning :
-- 🔥 Angular
-- 🔥 MySql
-- 🔥 Ionic
-- 🔥 Java
+<div>
 ### - Hobbies : 
 - 🎮 Gaming
 - 🎥 Watching Movies and Series
 - 🎶 Listen to Music
 - ⚽ Playing Sports
 
-<br><br>
+<br>
 
-## 🛠 &nbsp;Tech Stack
-<div style="display: inline-block;"><br>
+## 🛠 &nbsp;Technologies
+<div style="display: inline-block;">
+  <br>
   <img align="center" alt="Richard-ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)">
   <img align="center" alt="Richard-TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Richard-JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
