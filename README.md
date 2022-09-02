@@ -12,6 +12,8 @@ I'm a 16-year-old programming worshipper from Brazil, and I seek to devote mysel
 
 </div>
 
+<br><br>
+
 ### - Learning :
 - 🔥 Angular
 - 🔥 MySql
@@ -22,6 +24,8 @@ I'm a 16-year-old programming worshipper from Brazil, and I seek to devote mysel
 - 🎥 Watching Movies and Series
 - 🎶 Listen to Music
 - ⚽ Playing Sports
+
+<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div style="display: inline-block;">
