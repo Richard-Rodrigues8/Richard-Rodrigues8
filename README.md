@@ -25,7 +25,13 @@ I'm a 16-year-old programming worshipper from Brazil, and I seek to devote mysel
 <br>
 
 ### - Learning :
-<div>
+<div style="display: inline-block;">
+  <img align="center" alt="Richard-ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)">
+  <img align="center" alt="Richard-TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Richard-JAVA" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img align="center" alt="Richard-MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+  
 ### - Hobbies : 
 - 🎮 Gaming
 - 🎥 Watching Movies and Series
@@ -36,7 +42,6 @@ I'm a 16-year-old programming worshipper from Brazil, and I seek to devote mysel
 
 ## 🛠 &nbsp;Technologies
 <div style="display: inline-block;">
-  <br>
   <img align="center" alt="Richard-ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)">
   <img align="center" alt="Richard-TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Richard-JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
