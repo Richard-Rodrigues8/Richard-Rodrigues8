@@ -1,7 +1,17 @@
-### Hi! I'm Richard Rodrigues 🖐🏼
+## Hi! I'm Richard Rodrigues 🖐🏼
 
-## - I'm a 16-year-old programming worshipper from Brazil, and I seek to devote myself more and more in my profession.
-- 💻 Junior Web Developer 
+### - I'm a 16-year-old programming worshipper from Brazil, and I seek to devote myself more and more in my profession.
+- 💻 Junior Web Developer
+
+## 🧑🏻 &nbsp;Social Links
+<div>
+  <a href="https://instagram.com/richardrodrigues_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/Rich_Rodrigues8" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "mailto:richardrs20060318@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/richard-rodrigues-003533231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
+
 ### - Learning :
 - 🔥 Angular
 - 🔥 MySql
@@ -31,14 +41,4 @@
   <img align="center" alt="Richard-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Richard-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt="Richard-MYSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>
-
-<br><br>
-
-## 🧑🏻 &nbsp;Social Links
-<div> 
-  <a href="https://instagram.com/richardrodrigues_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:richardrs20060318@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/richard-rodrigues-003533231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 </div>
