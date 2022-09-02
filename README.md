@@ -17,7 +17,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
   <a href="https://github.com/Richard-Rodrigues8">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardRodrigues8&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Richard-Rodrigues8&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardRodrigues8&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
