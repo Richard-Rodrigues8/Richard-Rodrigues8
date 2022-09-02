@@ -3,6 +3,16 @@
 I'm a 16-year-old programming worshipper from Brazil, and I seek to devote myself more and more in my profession.
 - 💻 Junior Web Developer
 
+<br><br>
+
+<div style="display: inline-block;">
+  <a href="https://github.com/Richard-Rodrigues8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Richard-Rodrigues8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Rodrigues8&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+<br><br>
+
 ## 🧑🏻 &nbsp;Social Links
 <div>
   <a href="https://instagram.com/richardrodrigues_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -24,15 +34,6 @@ I'm a 16-year-old programming worshipper from Brazil, and I seek to devote mysel
 - 🎥 Watching Movies and Series
 - 🎶 Listen to Music
 - ⚽ Playing Sports
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-<div style="display: inline-block;">
-  <a href="https://github.com/Richard-Rodrigues8">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Richard-Rodrigues8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Rodrigues8&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 <br><br>
 
