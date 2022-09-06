@@ -26,7 +26,7 @@ I'm a 16-year-old programming worshipper from Brazil, and I seek to devote mysel
 
 ## 📚 &nbsp;Learning :
 <div style="display: inline-block;">
-  <img align="center" alt="Richard-ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)" />
+  <img style="border-radius: 10px" align="center" alt="Richard-ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)" />
   <img align="center" alt="Richard-TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="Richard-JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="center" alt="Richard-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
