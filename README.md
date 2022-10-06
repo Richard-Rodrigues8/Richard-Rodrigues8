@@ -6,7 +6,7 @@ I'm a 16-year-old programming worshipper from Brazil, and I seek to devote mysel
 <br>
 
 <div>
-  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500px" />
+  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="200px" />
 </div>
 
 <br>
