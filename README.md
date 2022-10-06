@@ -5,8 +5,8 @@ I'm a 16-year-old programming worshipper from Brazil, and I seek to devote mysel
 
 <br>
 
-<div style="border-radius: 15px;" >
-  <img style="width: 100%;" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500px" />
+<div>
+  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500px" />
 </div>
 
 <br>
