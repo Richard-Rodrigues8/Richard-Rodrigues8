@@ -5,6 +5,12 @@ I'm a 16-year-old programming worshipper from Brazil, and I seek to devote mysel
 
 <br>
 
+<div align="center">
+  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500px" />
+</div>
+
+<br>
+
 <div style="display: inline-block;">
   <a href="https://github.com/Richard-Rodrigues8">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Richard-Rodrigues8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
