@@ -1,15 +1,12 @@
-## Hi! I'm Richard Rodrigues 🖐🏼
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=150&section=header"/>
 
-I'm a 16-year-old programming worshipper from Brazil, and I seek to devote myself more and more in my profession.
-- 💻 Junior Web Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi+,my++name+is+Richard+Rodrigues+da+Silva;I'm+16+years+old;I+from+Brasil,+SP;I+study+development+systems+at+Etec;Be+Welcome!+😊)](https://git.io/typing-svg)
 
 <br>
 
-<div style="display: inline-block;">
-  <a href="https://github.com/Richard-Rodrigues8">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Richard-Rodrigues8&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Rodrigues8&layout=compact&langs_count=7&theme=nightowl"/>
-  </a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Richard-Rodrigues8&show_icons=true&count_private=true&hide_border=true&title_color=b50000&icon_color=800000&text_color=fff&bg_color=0d1117" alt="Richard Rodrigues github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Rodrigues8&layout=compact&hide_border=true&title_color=b50000&text_color=fff&bg_color=0d1117" />
 </div>
   
 <br>
@@ -57,3 +54,5 @@ I'm a 16-year-old programming worshipper from Brazil, and I seek to devote mysel
   <img align="center" alt="Richard-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt="Richard-MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer"/>
