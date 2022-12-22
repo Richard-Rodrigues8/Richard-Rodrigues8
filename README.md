@@ -57,4 +57,4 @@
   <img align="center" alt="Richard-MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>
