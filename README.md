@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=150&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi+,my++name+is+Richard+Rodrigues+da+Silva;I'm+16+years+old;I+from+Brasil,+SP;I+study+development+systems+at+Etec;Be+Welcome!+😊)](https://git.io/typing-svg)
 
@@ -24,6 +24,7 @@
 
 ## 📚 &nbsp;Learning :
 <div style="display: inline-block;">
+  <img align="center" alt="Richard-REACT" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white)" />
   <img align="center" alt="Richard-ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)" />
   <img align="center" alt="Richard-TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="Richard-JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
