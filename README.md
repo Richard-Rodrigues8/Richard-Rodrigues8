@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=150&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi+,my++name+is+Richard+Rodrigues+da+Silva;I'm+16+years+old;I+from+Brasil,+SP;I+study+development+systems+at+Etec;Be+Welcome!+😊)](https://git.io/typing-svg)
 
