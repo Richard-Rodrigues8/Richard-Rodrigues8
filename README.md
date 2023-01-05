@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4bb5bd&height=150&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi+,my++name+is+Richard+Rodrigues+da+Silva;I'm+16+years+old;I+from+Brasil,+SP;I+study+development+systems+at+Etec;Be+Welcome!+😊)](https://git.io/typing-svg)
 
@@ -57,4 +57,4 @@
   <img align="center" alt="Richard-MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4bb5bd&height=120&section=footer"/>
